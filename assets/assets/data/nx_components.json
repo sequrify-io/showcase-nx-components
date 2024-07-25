@@ -1,0 +1,77 @@
+[
+  {
+    "name": "NX Biometry",
+    "description": "Package that enables secure authentication using available biometric methods like fingerprint or face ID.",
+    "images": [
+      "assets/images/nx_biometry-1.png",
+      "assets/images/nx_biometry-2.png",
+      "assets/images/nx_biometry-3.png"
+    ]
+  },
+  {
+    "name": "NX Payments",
+    "description": "Package that provides interfaces for integrating popular payment systems such as Google Pay and Apple Pay into your app.",
+    "images": [
+      "assets/images/nx_payments-1.png",
+      "assets/images/nx_payments-2.png",
+      "assets/images/nx_payments-3.png"
+    ]
+  },
+  {
+    "name": "NX Profile",
+    "description": "Package that provides functionalities to manage user profiles, including the ability to edit user data, update profile photos, modify account settings, and change passwords.",
+    "images": [
+      "assets/images/nx_profile-1.PNG",
+      "assets/images/nx_profile-3.PNG",
+      "assets/images/nx_profile-2.PNG"
+    ]
+  }, 
+  {
+    "name": "NX Authentication",
+    "description": "Package that provides user authentication features, allowing users to register, sign in, and recover their account with a forgot password feature.",
+    "images": [
+      "assets/images/nx_auth-1.png",
+      "assets/images/nx_auth-2.png",
+      "assets/images/nx_auth-3.png",
+      "assets/images/nx_auth-5.png"
+    ]
+  },
+  {
+    "name": "NX Calendar",
+    "description": "Package that allows users to choose single dates or date ranges, and check which time slots are available.",
+    "images": [
+      "assets/images/nx_calendar-2.png",
+      "assets/images/nx_calendar-3.png",
+      "assets/images/nx_calendar-4.png"
+    ]
+  },
+  {
+    "name": "NX Sequrify",
+    "description": "Package that allows to verify vulnerabilities in Flutter packages. It provides information about the latest scans and presents the score for stability, vulnerability and quality indexes.",
+    "images": [
+      "assets/images/nx_sequrify-1.png",
+      "assets/images/nx_sequrify-2.png",
+      "assets/images/nx_sequrify-5.png",
+      "assets/images/nx_sequrify-6.png"
+    ]
+  },
+  {
+    "name": "NX Feedback",
+    "description": "Package that provides a panel to give feedback or report a problem.",
+    "images": [
+      "assets/images/nx_feedback-1.png",
+      "assets/images/nx_feedback-2.png",
+      "assets/images/nx_feedback-3.png"
+    ]
+  },
+  {
+    "name": "NX UI",
+    "description": "Package that provides UI widgets such as filters, search bar, drawer, buttons, expandable text, shimmer box, snackbar, photo card, empty screen. ",
+    "images": [
+      "assets/images/nx_ui-1.PNG",
+      "assets/images/nx_ui-2.PNG",
+      "assets/images/nx_ui-3.PNG",
+      "assets/images/nx_ui-4.PNG"
+    ]
+  }
+]

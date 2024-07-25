@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Say Hello to NX Components",
+    "description": "Discover the ultimate toolkit for building Flutter applications. From powerful integrations to intuitive UI components, everything you need to accelerate your app development journey.",
+    "image": "assets/images/gallery-2542.png"
+  },
+  {
+    "title": "We are Firebase Ready!",
+    "description": "Effortlessly set up Firebase and implement robust authentication. Make sure your app securely manages user data while maintaining high performance.",
+    "image": "assets/images/gallery-2538.png"
+  },
+  {
+    "title": "Fortify Your App with Sequrify",
+    "description": "Protect your application with Sequrify. Monitor security in real-time, ensuring your app is shielded against potential threats and vulnerabilities.",
+    "image": "assets/images/gallery-2537.png"
+  },
+  {
+    "title": "Unlock Advanced App Features",
+    "description": "Enhance your app with crucial features like user authentication, integrated payment systems, profile management, and feedback tools to ensure a seamless and engaging user experience.",
+    "image": "assets/images/gallery-2543.png"
+  },
+  {
+    "title": "Design UI That Delight and Engage",
+    "description": "Craft beautiful and user-friendly interfaces. Focus on creating seamless interactions and visually appealing layouts to captivate your users.",
+    "image": "assets/images/gallery-2541.png"
+  }
+]
